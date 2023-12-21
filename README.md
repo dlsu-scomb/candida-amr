@@ -1,4 +1,4 @@
-# Mathematical odeling of fluconazole resistance in the ergosterol pathway of *Candida albicans*
+# Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans*
 ![badge][badge-jupyter]
 ![badge][badge-python]
 ![badge][badge-numpy]
